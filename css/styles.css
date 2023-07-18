@@ -1,0 +1,12 @@
+.header{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+}
+.navbar{
+    
+}
+
+#li{
+    color: black;
+}
